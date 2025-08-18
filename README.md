@@ -1,4 +1,4 @@
-# React Form Builder Assignment
+# QuickForm
 
 This is my React form builder project, designed and developed entirely by me. I built it from the ground up to create dynamic, customizable forms with a clean and intuitive interface.
 
